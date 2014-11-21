@@ -1,5 +1,5 @@
 build
 dist
 ebin
-eiconv-git
+gen_smtp-git
 hash.mk
