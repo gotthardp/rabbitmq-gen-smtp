@@ -2,8 +2,8 @@ RELEASABLE=true
 APP_NAME:=gen_smtp
 DEPS:=eiconv
 
-UPSTREAM_GIT:=https://github.com/Vagabond/gen_smtp.git
-UPSTREAM_REVISION:=8f7ba01172e679e8b4262334cefc3451b4c36777
+UPSTREAM_GIT:=https://github.com/gotthardp/gen_smtp.git
+UPSTREAM_REVISION:=01017bd2f10475ecadb4e0ee2db38cf642d25a37
 RETAIN_ORIGINAL_VERSION:=true
 
 ORIGINAL_APP_FILE:=$(CLONE_DIR)/src/gen_smtp.app.src
