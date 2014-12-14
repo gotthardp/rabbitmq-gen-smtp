@@ -1,6 +1,5 @@
 RELEASABLE=true
 APP_NAME:=gen_smtp
-DEPS:=eiconv
 
 UPSTREAM_GIT:=https://github.com/gotthardp/gen_smtp.git
 UPSTREAM_REVISION:=19b33d179b20eefb35fbbc1dd3435f94dc794dd5
